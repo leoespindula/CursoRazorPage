@@ -1,11 +1,88 @@
 {
   "Version": 1,
-  "Hash": "1ezeCJZvrQBskb8ON7MyPjIVPteKiZvTepHtwl9dS/U=",
+  "Hash": "dOrT8fuC7JhQZ1BnV97yH11GQdvxRi5fxRL2rbfbCL4=",
   "Source": "MyRazorApp",
   "BasePath": "_content/MyRazorApp",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyRazorApp\\wwwroot",
+      "Source": "MyRazorApp",
+      "ContentRoot": "D:\\Curso\\CursoRazorPage\\MyRazorApp\\wwwroot\\",
+      "BasePath": "_content/MyRazorApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Curso\\CursoRazorPage\\MyRazorApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MyRazorApp.styles.css",
+      "SourceId": "MyRazorApp",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Curso\\CursoRazorPage\\MyRazorApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/MyRazorApp",
+      "RelativePath": "MyRazorApp.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Curso\\CursoRazorPage\\MyRazorApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MyRazorApp.styles.css"
+    },
+    {
+      "Identity": "D:\\Curso\\CursoRazorPage\\MyRazorApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MyRazorApp.bundle.scp.css",
+      "SourceId": "MyRazorApp",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Curso\\CursoRazorPage\\MyRazorApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/MyRazorApp",
+      "RelativePath": "MyRazorApp.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Curso\\CursoRazorPage\\MyRazorApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MyRazorApp.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Curso\\CursoRazorPage\\MyRazorApp\\wwwroot\\css\\site.css",
+      "SourceId": "MyRazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Curso\\CursoRazorPage\\MyRazorApp\\wwwroot\\",
+      "BasePath": "_content/MyRazorApp",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "D:\\Curso\\CursoRazorPage\\MyRazorApp\\wwwroot\\js\\site.js",
+      "SourceId": "MyRazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Curso\\CursoRazorPage\\MyRazorApp\\wwwroot\\",
+      "BasePath": "_content/MyRazorApp",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
 }
